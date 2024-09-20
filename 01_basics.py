@@ -60,3 +60,5 @@ print(type([1,2,3]))               #list
 print(type({'name':'sahil'}))     #dictionary
 print(({9.8, 3.14, 2.7}))           #set 
 print(type((9.8, 3.14, 2.7)))    #tuple
+
+
